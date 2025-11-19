@@ -1,5 +1,5 @@
 # 📊 Waste Cost Trend Dashboard
-A real-world data project analyzing how warehouse inbound weight influences waste-processing costs.  
+A **real-world data project** analyzing how warehouse inbound weight influences waste-processing costs.  
 
 The dashboard combines operational data from **Snowflake** (DBU weights) and **PostgreSQL** (inroissy weights) to reveal:  
 📦 How much inbound weight the warehouse processes each month  
@@ -167,6 +167,7 @@ A data-driven professional with strong analytical foundations and hands-on exper
 Passionate about transforming raw operational data into actionable business strategies.
 
 📧 Contact: xuefei.wang.fr@gmail.com
+
 
 
 
