@@ -84,6 +84,12 @@ data/df roissy.csv
 Run the Streamlit app:
 streamlit run waste_cost_dashboard.py
 ```
+Upload the required Excel file in the app UI
+The dashboard requires a price Excel file named:  
+```kotlin
+2024-2025 data.xlsx
+```
+You will upload this file directly inside the Streamlit UI when prompted.    
 
 You do not need any database credentials for demo mode.
 
@@ -100,6 +106,13 @@ Run the app as usual:
 ```bash
 streamlit run waste_cost_dashboard.py
 ```
+
+Upload the required Excel file in the app UI  
+The dashboard requires a price Excel file named:    
+```kotlin
+2024-2025 data.xlsx
+```
+You will upload this file directly inside the Streamlit UI when prompted.   
 
 ## 📸 Screenshot
 <img width="1916" height="941" alt="dashboard overview" src="https://github.com/user-attachments/assets/be488efc-fe08-47e8-95ca-d6d279af54aa" />
@@ -133,8 +146,14 @@ This project is shared under the MIT License.
     - Interactive visualisation and dashboard design with Streamlit + Altair
 
 ## 👩‍💻 Author  
-📘 MSc in Data Analytics and AI  
-📘 MSc in Statistics  
-🔍 Driven to transform raw data into strategic insights that lead to real impact.  
-📧 [xuefei.wang.fr@gmail.com]
+🎓 Dual Master's Degrees in Data Science  
+  - MSc in Data Analytics & Artificial Intelligence  
+  - MSc in Statistics  
+
+📌 Profile Summary  
+A data-driven professional with strong analytical foundations and hands-on experience in end-to-end data projects — from ETL & dashboarding to statistical modelling and AI-powered insights.   
+Passionate about transforming raw operational data into actionable business strategies.
+
+📧 Contact: xuefei.wang.fr@gmail.com
+
 
